@@ -7,24 +7,25 @@
 	<body>
 		<front face="华文新魏"></front>
 		<table width="500" border="1">
+			<caption><b>米菲的简历</b></caption>
 		        <tr>
-		            <td width="100">姓名</td>
-		            <td >米菲</td>
-		            <td>性别</td>
+		            <td width="100" align="center"><b>姓名</b></td>
+		            <td>米菲</td>
+		            <td align="center"><b>性别</b></td>
 		            <td >女</td>
-		            <td rowspan="4" colspan="1">
-		                <img src="miffy.jpg" />
+		            <td rowspan="4" colspan="1" align="center">
+		                <img src="Mif.jpg" alt="米菲的照片">
 		            </td>
 		        </tr>
 		        <tr>
-		            <td>民族</td>
+		            <td align="center"><b>民族</b></td>
 		            <td>兔佳族</td>
-		            <td>籍贯</td>
+		            <td align="center"><b>籍贯</b></td>
 		            <td>荷兰</td>
 		        </tr>
 		        <tr>
-		            <td>
-		                通讯地址
+		            <td align = "center">
+		                <b>通讯地址</b>
 		            </td>
 		            <td colspan="3">
 		                <ul typeof="disc">
@@ -37,10 +38,8 @@
 		        <tr>
 		            <td>电邮</td>
 		            <td colspan="3">miffy@yahoo.com</td>
-		        </tr>
-				
-				
-		        <tr><td colspan="5"align="middle">学历和工作简历</td></tr>
+		        </tr>							
+		        <tr><td colspan="5"align="center">学历和工作简历</td></tr>
 		        <tr>
 		            <td colspan="5">
 		                <ul typeof="disc">
@@ -52,7 +51,7 @@
 		                </ul>
 		            </td>
 		        </tr>
-		        <tr><td colspan="5"align="middle">已修课程</td></tr>
+		        <tr><td colspan="5"align="center">已修课程</td></tr>
 		        <tr>
 		            <td colspan="5">
 		                <ul typeof="disc">
@@ -61,12 +60,12 @@
 		                    <li>C语言课程设计</li>
 		                    <li>Java语言程序设计</li>
 		                    <li>Web应用开发基础</li>
-		                    <li>XML语言<>
+		                    <li>XML语言</li>
 		                </ul>
 		            </td>
 		        </tr>
 		        <tr>
-					<td colspan="5" align="middle">已获奖励</td>
+					<td colspan="5" align="center">已获奖励</td>
 				</tr>
 		        <tr>
 		            <td colspan="5">
@@ -77,7 +76,7 @@
 		            </td>
 		        </tr>
 		        <tr>
-					<td colspan="5"align="middle">已发表论文</td>
+					<td colspan="5"align="center">已发表论文</td>
 				</tr>
 		        <tr>
 		            <td colspan="5">
@@ -88,7 +87,7 @@
 		            </td>
 		        </tr>
 		        <tr>
-		            <td colspan="5"align="middle">
+		            <td colspan="5"align="center">
 		                <label for="comments">招聘人员面试评语</label>
 		            </td>
 		        </tr>
